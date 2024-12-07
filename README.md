@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 
+Italian Software Engineer, Contact me at
 
+## Language e Frameworks
+![C Programming Icon](https://img.icons8.com/color/48/000000/c-programming.png)
 <!--
 **nicola-dg/nicola-dg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
