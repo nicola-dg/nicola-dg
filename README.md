@@ -1,5 +1,5 @@
 ## Hi there 
-Italian Software Engineer, Contact me at nicoladangelo.dangelo@gmail.com
+Italian Software Engineer, Contact me at 2nd.dangelo@gmail.com
 
 ## Language e Frameworks
 ![C Programming Icon](https://img.icons8.com/color/48/000000/c-programming.png)
