@@ -7,6 +7,11 @@ Italian Software Engineer, Contact me at 2nd.dangelo@gmail.com
 ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
 ![Angular Icon](https://img.icons8.com/color/48/000000/angularjs.png)
 
+
+## Database Managment System & Tools
+![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgresql.png) 
+![Git Icon](https://img.icons8.com/color/48/000000/git.png)  
+![Docker Icon](https://img.icons8.com/color/48/000000/docker.png)  
 <!--
 **nicola-dg/nicola-dg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
