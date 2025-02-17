@@ -9,9 +9,9 @@ Italian Software Engineer, Contact me at 2nd.dangelo@gmail.com
 
 
 ## Database Managment System & Tools
+![Docker Icon](https://img.icons8.com/color/48/000000/docker.png)  
 ![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png)
 ![Git Icon](https://img.icons8.com/color/48/000000/git.png)  
-![Docker Icon](https://img.icons8.com/color/48/000000/docker.png)  
 <!--
 **nicola-dg/nicola-dg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
