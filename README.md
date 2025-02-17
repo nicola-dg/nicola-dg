@@ -13,7 +13,7 @@ Italian Software Engineer, Contact me at 2nd.dangelo@gmail.com
 ![PostgreSQL Icon](https://img.icons8.com/color/100/000000/postgreesql.png)
 ![Git Icon](https://img.icons8.com/color/100/000000/git.png)
 ![Linux Bash](https://img.icons8.com/color/100/000000/bash.png)
-![Express.js Icon](https://img.icons8.com/ios/48/000000/express-js.png) 
+![Express.js Icon](https://img.icons8.com/ios/100/000000/express-js.png) 
 <!--
 **nicola-dg/nicola-dg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
