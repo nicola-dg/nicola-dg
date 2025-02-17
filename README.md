@@ -9,7 +9,7 @@ Italian Software Engineer, Contact me at 2nd.dangelo@gmail.com
 
 
 ## Database Managment System & Tools
-![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgresql.png) 
+![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png)
 ![Git Icon](https://img.icons8.com/color/48/000000/git.png)  
 ![Docker Icon](https://img.icons8.com/color/48/000000/docker.png)  
 <!--
