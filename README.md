@@ -1,30 +1,27 @@
-## Hi there 
-Italian Software Engineer, Contact me at 2nd.dangelo@gmail.com
+## Hi there  
+Italian Software Engineer, Contact me at 2nd.dangelo@gmail.com  
 
-## Language e Frameworks
-![C Programming Icon](https://img.icons8.com/color/100/000000/c-programming.png)
-![Java Icon](https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png)
-![JavaScript Icon](https://img.icons8.com/color/100/000000/javascript.png)
-![Angular Icon](https://img.icons8.com/color/100/000000/angularjs.png)
+## 🖥️ Linguaggi di Programmazione  
+![C Icon](https://img.icons8.com/color/100/000000/c-programming.png)  
+![C++ Icon](https://img.icons8.com/color/100/000000/c-plus-plus-logo.png)  
+![Java Icon](https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png)  
+![JavaScript Icon](https://img.icons8.com/color/100/000000/javascript.png)  
 
+## 🗄️ Database & ORM  
+![PostgreSQL Icon](https://img.icons8.com/color/100/000000/postgreesql.png)  
+![SQLite Icon](https://img.icons8.com/color/100/000000/sql.png)  
+![Sequelize Icon](https://img.icons8.com/ios/100/000000/database.png)  
 
-## Database Managment System & Tools
-![Docker Icon](https://img.icons8.com/color/100/000000/docker.png)
-![PostgreSQL Icon](https://img.icons8.com/color/100/000000/postgreesql.png)
-![Git Icon](https://img.icons8.com/color/100/000000/git.png)
-![Linux Bash](https://img.icons8.com/color/100/000000/bash.png)
-![Express.js Icon](https://img.icons8.com/ios/100/000000/express-js.png) 
-<!--
-**nicola-dg/nicola-dg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Frameworks  
+![Angular Icon](https://img.icons8.com/color/100/000000/angularjs.png)  
+![Express.js Icon](https://img.icons8.com/ios/100/000000/express-js.png)  
 
-Here are some ideas to get you started:
+## 🔄 Versionamento del Codice  
+![Git Icon](https://img.icons8.com/color/100/000000/git.png)  
+![GitHub Icon](https://img.icons8.com/glyph-neue/100/ffffff/github.png)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Altri Tools  
+![Bash Icon](https://img.icons8.com/color/100/000000/bash.png)  
+![CSS Icon](https://img.icons8.com/color/100/000000/css3.png)  
+![HTML5 Icon](https://img.icons8.com/color/100/000000/html-5.png)  
+![Tailwind CSS Icon](https://img.icons8.com/color/100/000000/tailwind_css.png)  
